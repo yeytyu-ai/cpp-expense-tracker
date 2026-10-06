@@ -1,0 +1,38 @@
+# C++ Expense Tracker
+
+A menu-driven command-line Expense Tracker developed using C++.
+
+## Features
+
+- Add expenses
+- List all expenses
+- Calculate overall expenses
+- Input validation
+- Simple menu-driven interface
+
+## Requirements
+
+- C++ compiler
+- C++11 or later
+
+## Build
+
+g++ -std=c++11 main.cpp -o expense_tracker
+
+## Run
+
+./expense_tracker
+
+## Sample Menu
+
+===== C++ Expense Tracker =====
+1. Add Expense
+2. List Expenses
+3. Show Overall Total
+4. Exit
+
+## Purpose
+
+This project was developed as part of my C++ internship to practice
+C++ programming, input validation, data handling, and command-line
+application development.
