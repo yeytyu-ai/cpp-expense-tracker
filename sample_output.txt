@@ -1,0 +1,40 @@
+===== C++ Expense Tracker =====
+1. Add Expense
+2. List Expenses
+3. Show Overall Total
+4. Exit
+Enter your choice: 1
+
+Enter category: Food
+Enter amount: 150
+Enter description: Lunch
+
+Expense added successfully!
+
+===== C++ Expense Tracker =====
+1. Add Expense
+2. List Expenses
+3. Show Overall Total
+4. Exit
+Enter your choice: 2
+
+--- Expense List ---
+1. Category: Food | Amount: 150.00 | Description: Lunch
+
+===== C++ Expense Tracker =====
+1. Add Expense
+2. List Expenses
+3. Show Overall Total
+4. Exit
+Enter your choice: 3
+
+Overall Total: ₹150.00
+
+===== C++ Expense Tracker =====
+1. Add Expense
+2. List Expenses
+3. Show Overall Total
+4. Exit
+Enter your choice: 4
+
+Thank you for using Expense Tracker!
